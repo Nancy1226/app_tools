@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
     InfoView(),
     GeoView(),
     QRView(),
-    SensorView(),
+    SensorsView(),
     SpeechToTextView(),
     TextToSpeechView(),
   ];
@@ -94,3 +94,4 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+
